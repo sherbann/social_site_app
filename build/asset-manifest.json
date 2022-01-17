@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Week-7-FaceAche-Social-App-Example/static/css/main.aafcbea3.chunk.css",
+    "main.js": "/Week-7-FaceAche-Social-App-Example/static/js/main.7d515d97.chunk.js",
+    "main.js.map": "/Week-7-FaceAche-Social-App-Example/static/js/main.7d515d97.chunk.js.map",
+    "runtime-main.js": "/Week-7-FaceAche-Social-App-Example/static/js/runtime-main.67bcaef0.js",
+    "runtime-main.js.map": "/Week-7-FaceAche-Social-App-Example/static/js/runtime-main.67bcaef0.js.map",
+    "static/css/2.7c5c0350.chunk.css": "/Week-7-FaceAche-Social-App-Example/static/css/2.7c5c0350.chunk.css",
+    "static/js/2.fc1ff0ae.chunk.js": "/Week-7-FaceAche-Social-App-Example/static/js/2.fc1ff0ae.chunk.js",
+    "static/js/2.fc1ff0ae.chunk.js.map": "/Week-7-FaceAche-Social-App-Example/static/js/2.fc1ff0ae.chunk.js.map",
+    "index.html": "/Week-7-FaceAche-Social-App-Example/index.html",
+    "precache-manifest.711ef1e64e99189718495c25005f3f66.js": "/Week-7-FaceAche-Social-App-Example/precache-manifest.711ef1e64e99189718495c25005f3f66.js",
+    "service-worker.js": "/Week-7-FaceAche-Social-App-Example/service-worker.js",
+    "static/css/2.7c5c0350.chunk.css.map": "/Week-7-FaceAche-Social-App-Example/static/css/2.7c5c0350.chunk.css.map",
+    "static/css/main.aafcbea3.chunk.css.map": "/Week-7-FaceAche-Social-App-Example/static/css/main.aafcbea3.chunk.css.map",
+    "static/js/2.fc1ff0ae.chunk.js.LICENSE.txt": "/Week-7-FaceAche-Social-App-Example/static/js/2.fc1ff0ae.chunk.js.LICENSE.txt",
+    "static/media/like.png": "/Week-7-FaceAche-Social-App-Example/static/media/like.e0756cdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67bcaef0.js",
+    "static/css/2.7c5c0350.chunk.css",
+    "static/js/2.fc1ff0ae.chunk.js",
+    "static/css/main.aafcbea3.chunk.css",
+    "static/js/main.7d515d97.chunk.js"
+  ]
+}
